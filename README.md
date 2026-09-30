@@ -6,4 +6,4 @@ Tools used
 * Seaborn
 * Matplotlib
 * pickle
-* numpy
+  
