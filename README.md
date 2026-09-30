@@ -5,3 +5,4 @@ Tools used
 * pandas
 * Seaborn
 * Matplotlib
+* pickle
